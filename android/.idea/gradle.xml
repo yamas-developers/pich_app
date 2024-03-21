@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/8.3/libexec" />
+        <option name="gradleJvm" value="jbr-17" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/firebase_auth-2.0.0/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.12.0/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/firebase_database-9.0.7/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-11.2.7/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-9.8.0+1/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/flutter_native_timezone-2.0.0/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.9/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/geocoding-2.0.4/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-2.1.8/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.5.1/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.5+1/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/location-4.4.0/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.14/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/permission_handler_android-9.0.2+1/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.12/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.2/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/video_player_android-2.3.8/android" />
+            <option value="$USER_HOME$/src/flutter_2.10.5/.pub-cache/hosted/pub.dartlang.org/video_thumbnail-0.5.0/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
